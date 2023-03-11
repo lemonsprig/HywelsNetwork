@@ -1,0 +1,19 @@
+:root,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: lightblue;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+  background-color: lightpink;
+}

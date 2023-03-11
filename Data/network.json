@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben Tharanbar",
+        "type": "exploited",
+        "intel": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1333, 135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dis Pater",
+        "type": "exploited",
+        "intel": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1365, 130]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sunadabar", "type": "exploited", "intel": "4" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1200, 188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citadel Adbar",
+        "type": "exploited",
+        "intel": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1290, 37]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Everlund", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1030, 278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Yartar", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [808.5, 441.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Triboar", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [746.5, 494.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Red Larch", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [752.5, 559.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Waterdeep", "type": "exploited", "intel": "4" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [694, 682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goldenfields",
+        "type": "exploited",
+        "intel": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [774, 603.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Longsaddle", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [662.5, 345.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Secomber", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1004, 674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Loudwater", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1145, 614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Daggerford", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [824.5, 765.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Llorkh", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1268, 595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dagger Falls",
+        "type": "exploited",
+        "intel": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2088, 510]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Soubar", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1259, 1011.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Elturel", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1294.5, 1113.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Teshwave", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2206, 453]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Voonlar", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2180.5, 522.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Shadowdale", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2134.5, 609.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Berdusk", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1487.5, 1197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Asbravn", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1581.5, 1100.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Easting", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1623.5, 1197.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Greenest", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1380.5, 1255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nashkel", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1184.5, 1398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Crimmor", "type": "exploited", "intel": "4" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1203.5, 1523.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Beregost", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1079, 1328.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Iriaebor", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1574, 1174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Priapurl", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1722, 1206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Proskur", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1732.5, 1126.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Elversult", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1859, 1207.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Teziir", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2014.5, 1172.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Westgate", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2149, 1128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starmantle",
+        "type": "established",
+        "intel": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2310.5, 1213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Reddansyr", "type": "exploited", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2056, 1175.5]
+      }
+    }
+  ]
+}
