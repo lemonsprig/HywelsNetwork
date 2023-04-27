@@ -312,6 +312,58 @@
         "type": "Point",
         "coordinates": [2056, 1175.5]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Selgaunt", "type": "established", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2392.5, 952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Daerlun", "type": "established", "intel": "1" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2161.5, 1046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Archenbridge",
+        "type": "exploited",
+        "intel": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2250, 924.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highmoon",
+        "type": "exploited",
+        "intel": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2200.5, 848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arabel",
+        "type": "exploited",
+        "intel": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1954.5, 926]
+      }
     }
   ]
 }
